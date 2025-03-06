@@ -1,5 +1,7 @@
-#+TITLE:flycheck-ruff
+#+TITLE:flycheck-ruff [DEPRECATED]
 * About
+  - Deprecated becoz merged: https://github.com/flycheck/flycheck/pull/2033
+
   Custom syntax checker for using [[https://github.com/astral-sh/ruff][ruff]] within [[https://github.com/flycheck/flycheck][flycheck]]
 
   This is taken from [[https://gist.github.com/abo-abo/277d1fe1e86f0e46d3161345f26e8f3a][this gist]], which indirectly taken from [[https://github.com/flycheck/flycheck/issues/1974#issuecomment-1343495202][a comment on issue#1974 of flycheck's Github repo]].
